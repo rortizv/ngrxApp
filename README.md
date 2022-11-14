@@ -1,6 +1,12 @@
 # NgrxApp
 
-This is an app for learning NGRX only purpose.
+This is Counter App for learning NGRX only purpose.
+
+This code has been taken from this guide: https://ngrx.io/guide/store
+
+## Install
+
+Clone repo and hit 'npm i' to install Node modules.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.4.
 
